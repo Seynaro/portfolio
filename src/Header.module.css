@@ -1,4 +1,8 @@
 .header {
-    height: 50px;
+    height: 70px;
     background-color: aqua;
+}
+
+.container {
+    border: 1px solid;
 }
